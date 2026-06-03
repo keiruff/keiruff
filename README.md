@@ -1,55 +1,92 @@
 # Kei Ruff
 
-**Engineering Technology Specialist | Founder, CivicSpan IT Group**
+### Engineering Technology Specialist | Founder, CivicSpan IT Group
 
 I build practical technology solutions for infrastructure-focused organizations, engineering teams, and public-sector environments.
 
-My work focuses on engineering technology support, Bentley ProjectWise workflows, MicroStation, OpenRoads Designer, Microsoft 365, SharePoint, PowerShell automation, workflow documentation, help desk operations, and infrastructure IT support.
+My work focuses on Bentley ProjectWise workflows, MicroStation, OpenRoads Designer, Microsoft 365, SharePoint, PowerShell automation, workflow documentation, help desk operations, and infrastructure technology support.
+
+---
 
 ## CivicSpan IT Group
 
-CivicSpan IT Group provides practical IT support, documentation, workflow automation, and technology solutions for infrastructure-focused organizations.
+CivicSpan IT Group provides practical IT support, workflow automation, documentation, and engineering technology solutions for infrastructure-focused organizations.
 
-Website: https://civicspanitgroup.com
+**Website:** https://civicspanitgroup.com
+
+---
 
 ## Featured Open-Source Work
 
 ### ProjectWise Workspace Doctor
 
-ProjectWise Workspace Doctor is an open-source PowerShell utility designed to audit local engineering workspace directories, identify Bentley-related file types, report workspace size, and generate CSV reports for analysis.
+ProjectWise Workspace Doctor is an open-source PowerShell utility designed to audit local engineering workspace directories, identify Bentley-related file types, analyze workspace growth, and generate CSV reports for engineering technology teams.
 
-Repository: https://github.com/keiruff/pw-workspace-doctor
+**Repository:**
+https://github.com/keiruff/pw-workspace-doctor
 
-Release: https://github.com/keiruff/pw-workspace-doctor/releases/tag/v0.1.0
+**Latest Release:**
+https://github.com/keiruff/pw-workspace-doctor/releases
+
+### Key Features
+
+* Workspace directory auditing
+* Bentley file type identification
+* Workspace size analysis
+* CSV reporting
+* Cleanup planning support
+* Engineering technology troubleshooting
+
+---
 
 ## Technical Focus Areas
 
-- Engineering technology support
-- Bentley ProjectWise support workflows
-- MicroStation and OpenRoads Designer support
-- Microsoft 365 and SharePoint
-- PowerShell automation
-- Technical documentation
-- Workflow improvement
-- Help desk operations
-- Infrastructure IT support
-- Public-sector technology support
+* Bentley ProjectWise Administration
+* MicroStation Support
+* OpenRoads Designer Support
+* Engineering Technology Support
+* Microsoft 365
+* SharePoint
+* PowerShell Automation
+* Infrastructure IT Operations
+* Technical Documentation
+* Help Desk Operations
 
-## Current Development Interests
+---
 
-- ProjectWise workspace diagnostics
-- CAD file auditing
-- Engineering folder health checks
-- Automation for design technology teams
-- Knowledge base and job aid development
-- Lightweight tools for infrastructure IT support
+## Certifications & Programs
 
-## Bentley Developer Network
+* Bentley Developer Program Member
+* University of Virginia Cloud Computing Program
+* SharePoint 2013, 2019, and Online
+* Power BI
+* Power Apps
+* PowerShell Automation
 
-I am exploring Bentley Developer Network resources and building practical tooling around engineering technology workflows, workspace auditing, CAD support, and infrastructure support environments.
+---
+
+## Community Involvement
+
+I actively participate in Bentley Communities and support discussions related to:
+
+* ProjectWise Administration
+* MicroStation
+* OpenRoads Designer
+* Engineering Technology Support
+* Infrastructure IT Operations
+
+---
 
 ## Connect
 
-Website: https://civicspanitgroup.com  
-GitHub: https://github.com/keiruff  
-LinkedIn: https://www.linkedin.com/company/civicspan-it-group/
+**Website**
+https://civicspanitgroup.com
+
+**LinkedIn Company Page**
+https://www.linkedin.com/company/civicspan-it-group
+
+**GitHub**
+https://github.com/keiruff
+
+**ORCID**
+(Add your ORCID URL here)
